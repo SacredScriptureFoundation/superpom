@@ -55,6 +55,7 @@
   <properties>
     <jdk.version>1.7</jdk.version>
     <maven.version>3.2.1</maven.version> <!-- match Eclipse Luna embedded -->
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
   <build>
