@@ -127,6 +127,10 @@
           <version>2.10.1</version>
           <configuration>
             <source>${jdk.version}</source> <!-- match compiler -->
+            <links>
+              <link>http://docs.oracle.com/javase/7/docs/api/</link>
+              <link>http://docs.oracle.com/javaee/7/api/</link>
+            </links>
           </configuration>
         </plugin>
 
